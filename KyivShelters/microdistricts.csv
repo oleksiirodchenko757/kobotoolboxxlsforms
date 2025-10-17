@@ -1,0 +1,15 @@
+list_name,name,label,district,block_filter
+microdistrict,holosiiv-1,Голосіїв-1,holosiivskyi,holosiiv
+microdistrict,holosiiv-2,Голосіїв-2,holosiivskyi,holosiiv
+microdistrict,teremky-1,Теремки-I,holosiivskyi,teremky
+microdistrict,teremky-2,Теремки-II,holosiivskyi,teremky
+microdistrict,poznyaky-1,Позняки-1,darnytskyi,zakhidni_poznyaky
+microdistrict,poznyaky-2,Позняки-2,darnytskyi,skhidni_poznyaky
+microdistrict,osokorky-central,Осокорки-Центральні,darnytskyi,pivnichni_osokorky
+microdistrict,troieshchyna-1,Троєщина-1,desnianskyi,vyhurivshchyna_troieshchyna
+microdistrict,vinogradar-1,Виноградар-1,podilskyi,vinogradar
+microdistrict,vinogradar-2,Виноградар-2,podilskyi,vinogradar
+microdistrict,borchagivka-5,Борщагівка-5,svyatoshynskyi,pivdenna_borshchahivka
+microdistrict,solomyanka-north,Солом’янка-Північна,solomianskyi,solomyanka
+microdistrict,lukianivka-east,Лук’янівка-Східна,shevchenkivskyi,lukianivka
+microdistrict,other,Інше,
